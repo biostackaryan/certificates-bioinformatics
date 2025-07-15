@@ -42,3 +42,17 @@
 
 🧠 **Skills Gained:** Python scripting for bioinformatics, online tool integration, data parsing.
 
+🌐 Python for Data Access  
+Instructor: Dr. Charles Severance (Dr. Chuck)  
+Coursera Certificate  
+
+Covered essential skills for retrieving and processing online data using Python:
+
+🔗 Accessing and reading web content using `urllib`  
+🌐 Parsing HTML content with `BeautifulSoup`  
+📦 Working with JSON APIs and REST endpoints  
+📨 Understanding HTTP requests, headers, and responses  
+⚙️ Automating data collection from websites and APIs  
+
+🧠 Skills Gained: Web scraping, JSON handling, API integration, HTML parsing, automation 
+
