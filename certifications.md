@@ -42,6 +42,8 @@
 
 🧠 **Skills Gained:** Python scripting for bioinformatics, online tool integration, data parsing.
 
+---
+
 ### 🌐 Python for Data Access  
 **Instructor:** Dr. Charles Severance (Dr. Chuck)  
 [Coursera Certificate](https://coursera.org/share/4bf42aca2e62368983b956c0494987d7)
