@@ -9,4 +9,5 @@ This repository contains a detailed collection of certificates I’ve completed 
 - [Python Data Structures](certifications.md#python-data-structures)
 - [Applied Bioinformatics](certifications.md#applied-bioinformatics)
 - [Python for Data Access (Coursera)](https://coursera.org/share/4bf42aca2e62368983b956c0494987d7)
+
 🧪 More to come soon — including NGS, R programming, and data analysis.
