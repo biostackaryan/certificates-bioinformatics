@@ -62,7 +62,7 @@ Covered essential skills for retrieving and processing online data using Python:
 ## 📊 Python for Data Visualization – Guided Project
 Platform: Coursera Guided Project
 Completed: August 2025
-Certificate: 📄 View Certificate
+Certificate:[Coursera Certificate](https://coursera.org/share/7da1dce4e8d477142c49386817b3666c)
 
 Covered hands-on techniques for visualizing data using Python and real datasets:
 
