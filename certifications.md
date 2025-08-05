@@ -50,11 +50,31 @@
 
 Covered essential skills for retrieving and processing online data using Python:
 
-- 🔗 Accessing web pages using `urllib`
-- 🌐 Parsing HTML using `BeautifulSoup`
-- 📦 Extracting and processing data from JSON APIs
-- 📨 Understanding HTTP requests and responses
-- ⚙️ Automating data scraping and web data collection
+> 🔗 Accessing web pages using `urllib`
+>- 🌐 Parsing HTML using `BeautifulSoup`
+>- 📦 Extracting and processing data from JSON APIs
+>- 📨 Understanding HTTP requests and responses
+>- ⚙️ Automating data scraping and web data collection
 
 🧠 **Skills Gained:** API integration, web scraping, JSON/HTML parsing, automation
+
+---
+📊 Python for Data Visualization – Guided Project
+Platform: Coursera Guided Project
+Completed: August 2025
+Certificate: 📄 View Certificate
+
+Covered hands-on techniques for visualizing data using Python and real datasets:
+
+>📈 Creating basic plots  with matplotlib
+
+>-🧠 Using seaborn for advanced visualizations 
+
+>-🛠️ Customizing plots with labels, legends, and colors
+
+>-📊 Plotting line, bar, scatter, and categorical plots and heatmaps
+
+>-👀 Visual exploration of data trends and patterns
+
+💡 **Skills Gained**: Data Visualization • matplotlib • seaborn • EDA • Plot Customization
 
