@@ -45,7 +45,7 @@
 ---
 
 ### 🌐 Python for Data Access  
-**Instructor:** Dr. Charles Severance (Dr. Chuck)  
+**Instructor:** Dr. Charles Severance (University of michigan)  
 [Coursera Certificate](https://coursera.org/share/4bf42aca2e62368983b956c0494987d7)
 
 Covered essential skills for retrieving and processing online data using Python:
@@ -61,7 +61,7 @@ Covered essential skills for retrieving and processing online data using Python:
 ---
 ## 📊 Python for Data Visualization – Guided Project
 **Instructor:** Ryan Ahmed
-Certificate:[Coursera Certificate](https://coursera.org/share/7da1dce4e8d477142c49386817b3666c)
+[Coursera Certificate](https://coursera.org/share/7da1dce4e8d477142c49386817b3666c)
 
 Covered hands-on techniques for visualizing data using Python and real datasets:
 
