@@ -59,7 +59,7 @@ Covered essential skills for retrieving and processing online data using Python:
 🧠 **Skills Gained:** API integration, web scraping, JSON/HTML parsing, automation
 
 ---
-📊 Python for Data Visualization – Guided Project
+###📊 Python for Data Visualization – Guided Project
 Platform: Coursera Guided Project
 Completed: August 2025
 Certificate: 📄 View Certificate
